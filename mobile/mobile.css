@@ -1,0 +1,10 @@
+/* soft mint green #D1E8E2(text), deep teal #19747E(important text), light sky blue #A9D6E5(background), light gray #E2E2E2(super light) */
+
+body {
+  background-color: #a9d6e5;
+  color: #d1e8e2;
+  text-align: center;
+}
+h1 {
+  color: #19747e;
+}
